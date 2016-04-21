@@ -1,0 +1,4 @@
+app/code/local/Rukhsar/CmsMenu                              app/code/local/Rukhsar/CmsMenu                             
+app/design/frontend/base/default/layout/rukhsar_cmsmenu.xml app/design/frontend/base/default/layout/rukhsar_cmsmenu.xml
+app/design/frontend/base/default/template/rukhsar           app/design/frontend/base/default/template/rukhsar          
+app/etc/modules/Rukhsar_CmsMenu.xml                         app/etc/modules/Rukhsar_CmsMenu.xml                        

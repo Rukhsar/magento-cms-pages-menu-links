@@ -1,0 +1,8 @@
+{
+    "name": "rukhsar/magento-cms-pages-menu-links",
+    "description": "This magento extension will help Admin to add cms pages to top menu links with ease.",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "^3.0"
+    }
+}
